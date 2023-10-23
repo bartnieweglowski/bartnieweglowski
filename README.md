@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **bartnieweglowski@gmail.com**
 
-I am currently a third-year student pursuing a degree in computer science from WSB University in Wrocław. My passion lies in programming and constantly exploring new technologies. I am actively searching for a job opportunity that will offer me valuable experience and enable me to further enhance my skills in the IT sector.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
